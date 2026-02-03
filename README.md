@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello my name is Kev
+<img src="https://preview.redd.it/supernova-c-fan-made-v0-tfkxdu6goa4g1.png?width=320&crop=smart&auto=webp&s=e3d01d5eaaf2b89c885b9eb9a3cafad2a6975513" alt="Alt text" width="300px" height="300px">
 
-<!--
-**kevw2345/kevw2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a person who likes a lot of stuff
 
-Here are some ideas to get you started:
+### My interests: 
+- Battle Cats `Σ :3`
+- Indie games in general
+  - Enter the Gungeon
+  - Dead Cells
+  - Lobotomy Corp
+- Drawing cool things (like the battle cats) 🎨
+- Game development 👾
+- Linux 🐧
+- Recently, I've been getting into <u>web development</u> 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+yayyyy thats my profile... 
